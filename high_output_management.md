@@ -254,7 +254,53 @@ Manager should settle the following questions in advance:
 * Who will ratify or veto the decision?
 * Who will need to be informed?
 
-### Chapter 6:
+### Chapter 6: Planning today's actions for tomorrow's output
+
+Planning process:
+1. Estimate future demand
+2. Determine what can be currently produced
+3. Adjust production schedule to reconcile future demand with output
+
+Estimate future demand:
+* Determine customer expectations
+* Keep abreast of technological developments
+* Evaluate performance of providers (upstream from you in production chain), as
+    well as other groups in the organization that affect our work
+* What do customers want from us now? Are we satisfying them? What will they
+    want from us in the future?
+
+Determine present status:
+* List present capabilities
+* Use the same definitions and units as demand from customers
+* Factor in losses, number of products or projects not completed
+
+What to do to close the gap:
+* Create new tasks or modify existing ones
+* What do we need to do to close the gap? What can we do?
+
+Planning should not focus only on today's gap, but mostly on future gap.
+Today's gap is due to past planning, it's too late to fix.
+
+Priority is important, as saying "yes" to one project involves saying "no" to
+other projects.
+
+Management by objectives:
+1. Where do I want to go?
+2. How do I know I'm getting there? (milestones, key results)
+
+Milestones are not the goal, they only measure progress. Milestones should not
+make us blind to opportunities encountered during project execution.
+
+## Part III: Team of teams
+
+### Chapter 7: The breakfast factory goes national
+
+As a company scales, there are decisions to be made about what is managed
+centrally and what is managed locally. Local teams have more context and
+therefore can sometimes make better decisions, but centralized management
+can enforce policies, processes, make economies of scale.
+
+### Chapter 8: Hybrid organizations
 
 
 
