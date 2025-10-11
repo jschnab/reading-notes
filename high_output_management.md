@@ -302,7 +302,26 @@ can enforce policies, processes, make economies of scale.
 
 ### Chapter 8: Hybrid organizations
 
+Organizations can take two extreme forms (but are usually a mix):
+* mission-oriented:
+    * fully decentralized, all business units are self-sufficient
+    * respond well to local conditions
+* function-oriented:
+    * fully centralized
+    * each unit is specialized and performs a specific activity for the rest of
+        the organization
+    * allow easy re-allocation of resources from project to project
+    * can overload functional teams
+    * business units spend a lot of time negotiating and compete to get a share
+        of functional resources
 
+Mission-oriented organizations can respond to local conditions, and
+function-oriented organizations leverage economies of scale.
+
+In practice, all companies are a mix of mission-oriented and function-oriented
+units. Except conglomerates, which have only mission-oriented components.
+
+### Chapter 9: Dual reporting
 
 ### Chapter 12: Task-relevant maturity
 
