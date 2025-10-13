@@ -314,6 +314,7 @@ Organizations can take two extreme forms (but are usually a mix):
     * can overload functional teams
     * business units spend a lot of time negotiating and compete to get a share
         of functional resources
+    * hardly knows what customers want (they don't see or talk to them)
 
 Mission-oriented organizations can respond to local conditions, and
 function-oriented organizations leverage economies of scale.
@@ -322,6 +323,60 @@ In practice, all companies are a mix of mission-oriented and function-oriented
 units. Except conglomerates, which have only mission-oriented components.
 
 ### Chapter 9: Dual reporting
+
+Dual reporting comes from matrix management, which was invented by NASA to
+coordinate the work of contractors.
+
+Dual reporting allows to reconcile centralized and decentralized work. E.g. if
+there is not function-specific manager in a decentralized location, an employee
+reports to a local manager (even if they are no specialists in the worker's
+competence area) and a non-local specialist manager.
+
+A group of peer can be a form of manager, e.g. a group of workers can provide
+technical management if there is no technical manager. An individual in the
+group reports to the whole group, as well as to his/her manager. This system
+requires a high level of trust.
+
+Company culture: set of values and beliefs, as well as familiarity with how
+things are done and should be done in the company.
+
+### Chapter 10: Modes of control
+
+Behavior is controlled by three forces:
+* free-market forces
+* legal obligations
+* cultural values
+
+Free-market forces work in situations where objects have a clearly defined
+economic (dollar) value.
+
+Legal obligations may be put in place when things do not have a clear and
+immediate dollar value. This requires enforcement of rules, which brings
+overhead. The rules are also hard to change (therefore not good fit for a
+rapidly-changing environment), and it may not be practical to have rules for
+every single (important) detail (therefore not a good fit for an ambiguous
+environment).
+
+Cultural values work well in rapidly-changing and ambiguous environments. They
+work well when people share values, objectives, and methods (which usually
+comes from shared experiences).
+
+Best mode of control depends on two factors: invididual motivation (self
+interest or group interest) and CUA (complexity, uncertainty, ambiguity).
+
+Self-interest, high CUA: no mode of control really works.
+Self-interest, low CUA: market forces work best.
+Group interest, low CUA: legal obligations.
+Group interest, high CUA: cultural values.
+
+Shared experiences is the reason why companies with strong corporate cultures
+favor internal promotions.
+
+
+
+## Part IV: The players
+
+### Chapter 11: The sports analogy
 
 ### Chapter 12: Task-relevant maturity
 
