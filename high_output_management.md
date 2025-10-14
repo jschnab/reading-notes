@@ -372,11 +372,41 @@ Group interest, high CUA: cultural values.
 Shared experiences is the reason why companies with strong corporate cultures
 favor internal promotions.
 
-
-
 ## Part IV: The players
 
 ### Chapter 11: The sports analogy
+
+Because the output of a manager is the output of the group under his influence,
+management is a team activity.
+
+When a worker is not doing their job, there are two potential reasons:
+1. they cannot do it (skills problem)
+2. they do not want to do it (motivation problem)
+
+To get the most of their worker, a manager has two leverages: training and
+motivation.
+
+The Maslow's hierarchy of needs (from more fundamental to more refined):
+1. Physiological (basic things one can buy, food, clothing)
+2. Safety, security (medical insurance)
+3. Social, affiliation (belong to a team of similar people)
+4. Esteem, recognition
+5. Self-actualization (what I can be, I must be)
+
+Higher-level needs cannot be satisfied before lower-level needs. When a
+lower-level need is satisfied, the next one is likely to take over.
+
+Money and task-relevant feedback are the main motivators.
+
+People do not take risk, and do not stay in the self-actualization mode when
+they fear failure.
+
+Like in sports, a way to let workers self-actualize is to give them a way to
+measure their performance.
+
+Like in sports, a good manager is like a good coach, not taking credit for the
+team's success (otherwise the team does not trust him), being tough on the team
+(to get the best out of them), and he knows how to play the game.
 
 ### Chapter 12: Task-relevant maturity
 
